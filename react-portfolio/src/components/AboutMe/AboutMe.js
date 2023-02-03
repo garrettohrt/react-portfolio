@@ -3,8 +3,8 @@ import React from 'react';
 function About() {
 	return (
 		<div role="tabpanel" id="tabpanel-about" aria-labelledby="tab-about">
-			<div className="center" id="about">
-				<h1 className="page-header">About Me</h1>
+			<div id="about">
+				<h1>About Me</h1>
 			</div>
 			<div className="center">
 				<img
